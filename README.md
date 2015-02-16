@@ -12,5 +12,7 @@ The sample app has a webview on the index view that loads a local HTML file call
 
 Most of the work is actually done in the linegraph.js file that the html page loads. This is just a simple demo of using D3 to manipulate the HTML5 <svg> tag.
 
-## Screenshot
+## Screenshot and video
 ![](https://github.com/magnatronus/d3-adventures-one/blob/master/linegraph.png)
+
+[And video of test app generating graph and scrolling](http://youtu.be/wGkVnnXSn4g) 
