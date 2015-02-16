@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container">
+		<WebView id="d3" onLoad="showData"  url="/d3/d3graph.html" />
+	</Window>
+</Alloy>
