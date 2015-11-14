@@ -5,13 +5,13 @@
     <version>1.0</version>
     <publisher>Steve Rogers</publisher>
     <url>http://www.spiralarm.co.uk</url>
-    <description/>
+    <description>test d3 app</description>
     <copyright>2015 by Steve Rogers</copyright>
     <icon>appicon.png</icon>
     <fullscreen>false</fullscreen>
     <navbar-hidden>false</navbar-hidden>
     <analytics>false</analytics>
-    <guid>86e36d17-d2fc-451f-8742-fee56049290a</guid>
+    <guid>2935085b-a924-4861-9444-37deb8ca0603</guid>
     <property name="ti.ui.defaultunit" type="string">dp</property>
     <ios>
         <plist>
@@ -55,8 +55,9 @@
         <target device="iphone">true</target>
         <target device="mobileweb">false</target>
     </deployment-targets>
-    <sdk-version>3.5.0.GA</sdk-version>
+    <sdk-version>5.0.2.GA</sdk-version>
     <plugins>
         <plugin version="1.0">ti.alloy</plugin>
     </plugins>
+    <property name="appc-app-id" type="string">564769f2c312a15a75b92525</property>
 </ti:app>
